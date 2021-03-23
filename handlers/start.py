@@ -8,22 +8,22 @@ from helpers.filters import command, other_filters, other_filters2
 async def start(_, message: Message):
     await message.reply_text(
         f"""🙃 Hi {message.from_user.first_name}!
-✨ I am Hêllẞø† Music Player. 
+✨ I am Mizo Music Player. 
 🥳 I can play music in your Telegram Group's Voice Chat😉
 ⚜️ Use these buttons below to know more. 👇""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "⚒ Source code", url="https://github.com/TheVaders/MusicBot"
+                        "⚒ Updates Channel", url="https://t.me/TGBotSzK"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/hellbot_official_chat"
+                        "💬 Group", url="https://t.me/MizoInFoTel1"
                     ),
                     InlineKeyboardButton(
-                        "Channel 🔈", url="https://t.me/hellbot_official"
+                        "Channel 🔈", url="https://t.me/MizoInFoTel14"
                     )
                 ],
                 [
