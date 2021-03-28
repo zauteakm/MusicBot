@@ -1,11 +1,11 @@
-<h1 align="centre">🎶 Music Bot 🎶</h1>
+<h1 align="centre">Group Music Bot</h1>
 
 ## Requirements 📝
 
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
 - Python 3.7+
-- [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
+- [Zaute Km](https://github.com/ZauteKm/VC-Bot)
 
 <h2 align="centre">⚙️ Set Up ⚙️</h3>
 
