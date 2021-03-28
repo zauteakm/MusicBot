@@ -1,4 +1,4 @@
-from pyrogram import Client, filters
+from pyrogram import Client, filter
 from pyrogram.types import CallbackQuery
 
 
