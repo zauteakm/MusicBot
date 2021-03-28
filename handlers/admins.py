@@ -1,4 +1,4 @@
-import queu
+import queue
 
 from pyrogram import Client
 from pyrogram.types import Message
