@@ -1,4 +1,4 @@
-from typing import Callabl
+from typing import Callable
 
 from pyrogram import Client
 from pyrogram.types import Message
