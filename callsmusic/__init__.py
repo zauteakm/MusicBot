@@ -1,1 +1,1 @@
-from .callsmusic import pytgcalls, ru
+from .callsmusic import pytgcalls, run
