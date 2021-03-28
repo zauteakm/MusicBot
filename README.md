@@ -5,13 +5,13 @@
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
 - Python 3.7+
-- [Zaute Km](https://github.com/ZauteKm/VC-Bot)
+- [Zaute Km](https://github.com/ZauteKm/MusicBot)
 
 <h2 align="centre">⚙️ Set Up ⚙️</h3>
 
 <h3 align="centre"> Heroku </h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZauteKm/VC-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZauteKm/MusicBot)
 
 Get STRING_NAME from here:
 
