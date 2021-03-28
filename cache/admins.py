@@ -1,4 +1,4 @@
-from typing import List, Dict, Union
+from typing import List, Dict, Unio
 
 from pyrogram.types import User
 
