@@ -1,5 +1,5 @@
 """
-To prevent conflict with built-in modules, using "queues", the Greek word for "queue".
+T prevent conflict with built-in modules, using "queues", the Greek word for "queue".
 """
 from queue import Queue, Empty
 from typing import Dict, Union
