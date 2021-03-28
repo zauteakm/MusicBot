@@ -1,4 +1,4 @@
-from pyrogram import Clien
+from pyrogram import Client
 from pytgcalls import PyTgCalls
 
 import config
