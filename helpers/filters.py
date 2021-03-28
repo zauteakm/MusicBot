@@ -1,4 +1,4 @@
-from typing import Union, Lis
+from typing import Union, List
 
 from pyrogram import filters
 
