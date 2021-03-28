@@ -3,4 +3,4 @@ TgCrypto
 git+https://github.com/pytgcalls/pytgcalls
 python-dotenv
 youtube_dl
-youtube_search_python
+youtube_search_pytho
