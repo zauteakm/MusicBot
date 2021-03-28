@@ -1,4 +1,4 @@
-from typing import Lis
+from typing import List
 
 from pyrogram.types import Chat, User
 
