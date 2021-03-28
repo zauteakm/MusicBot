@@ -1,4 +1,4 @@
-from os import getenv
+from os import geten
 
 from dotenv import load_dotenv
 
